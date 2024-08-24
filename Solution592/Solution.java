@@ -4,6 +4,7 @@ class Solution {
         int numerator = 0;
         int denominator = 1;
         
+        // test
         int i = 0;
         while (i < expression.length()) {
 
